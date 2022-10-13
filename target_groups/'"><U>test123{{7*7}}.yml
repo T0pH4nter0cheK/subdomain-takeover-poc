@@ -1,0 +1,6 @@
+type: target-group
+name: '''"><U>test123{{7*7}}'
+description: '''"><U>test123{{7*7}}'
+conditions:
+  - operator: is-undefined
+    property: '''"><U>test123{{7*7}}'
